@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="ProefTentamen.csproj" MonoDevelop.MonoMac.LastXamMacNagTime="4/13/2016 2:51:15 PM" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IState.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="1" Column="1" />
+      <File FileName="GameObjects/World.cs" Line="1" Column="1" />
+      <File FileName="GameObjects/GameObject.cs" Line="1" Column="1" />
+      <File FileName="GameObjects/Cat.cs" Line="1" Column="1" />
+      <File FileName="IState.cs" Line="6" Column="83" />
+      <File FileName="Sleeping.cs" Line="17" Column="5" />
+      <File FileName="Awake.cs" Line="8" Column="112" />
+      <File FileName="Eating.cs" Line="23" Column="4" />
+      <File FileName="Playing.cs" Line="24" Column="4" />
+      <File FileName="IObserver.cs" Line="1" Column="1" />
+      <File FileName="FoodBowl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
